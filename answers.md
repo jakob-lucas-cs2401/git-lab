@@ -46,3 +46,43 @@ Answer 5:
     (use "git add <file>..." to include in what will be committed)
             answers.md
 
+Answer 6:
+    On branch master
+
+    No commits yet
+
+    Changes to be committed:
+    (use "git rm --cached <file>..." to unstage)
+            new file:   README.md
+            new file:   answers.md
+
+Answer 7:
+    On branch master
+    nothing to commit, working tree clean
+
+Answer 8:
+    commit 0ecfa0f6733ec23c3d070a3f4e2129c1d164db7b (HEAD -> master)
+    Author: jakob-lucas-cs2401 <jl930219@ohio.edu>
+    Date:   Wed Aug 26 14:25:05 2020 -0400
+
+        Initial commit
+
+Answer 9:
+    On branch master
+    Your branch is up to date with 'origin/master'.
+
+    Changes to be committed:
+    (use "git restore --staged <file>..." to unstage)
+            modified:   answers.md
+
+
+Answer 10:
+
+
+Answer 11:
+
+
+Answer 12:
+
+
+Answer 13:
