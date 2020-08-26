@@ -83,6 +83,13 @@ Answer 11:
     Everything up-to-date
 
 Answer 12:
-
+    Yes, the changes I made online were reflected in my local copy.
 
 Answer 13:
+        Directory: D:\College\cs2400\git-lab-2
+
+
+    Mode                LastWriteTime         Length Name
+    ----                -------------         ------ ----
+    -a----        8/26/2020   2:49 PM            302 .gitignore
+    -a----        8/26/2020   2:49 PM             11 README.md
