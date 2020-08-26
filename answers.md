@@ -77,10 +77,10 @@ Answer 9:
 
 
 Answer 10:
-
+    Yes, the changes I made online were reflected in my local copy.
 
 Answer 11:
-
+    Everything up-to-date
 
 Answer 12:
 
